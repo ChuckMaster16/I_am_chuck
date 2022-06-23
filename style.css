@@ -1,8 +1,5 @@
  body{
- /*background-image:url('Images/background-desk.png');
-  background-repeat: no-repeat;
-  background-attachment:local;
-  background-position:top;*/
+
   background-size: 100% 25%;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
@@ -85,12 +82,7 @@ hr {
   width: 4%;
   margin:100px auto 100px auto;
 
-/*border-style:dotted none none;
-border-color:grey;
-width:38px;
-height-top:0px;
-border-width:6px;
-margin: 3rem auto 3rem auto;*/
+
 
 }
 
@@ -152,20 +144,16 @@ img.capwe{
 }
 .bottom-cloud {
   position: absolute;
-  left: 91px;
-  bottom: 300px;
+  left: 68px;
+  top: 463px;
   width: 10rem;
   height: auto;
 
 }
 .mountain{
-  position: absolute;
   height: 339px;
   width: auto;
-  top: 341px;
-  z-index: 4558;
-  left: 239px;
- margin:auto;
+
 }
 
 p {
